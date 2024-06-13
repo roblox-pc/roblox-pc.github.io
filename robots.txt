@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: https://roblox-pc.github.io
+
+Sitemap: https://roblox-pc.github.io/sitemap.xml
